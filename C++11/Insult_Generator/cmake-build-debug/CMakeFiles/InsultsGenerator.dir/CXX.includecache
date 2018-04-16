@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sonic/CLionProjects/Insult_Generator/InsultsProcessor.cpp
+InsultsProcessor.h
+C:/Users/sonic/CLionProjects/Insult_Generator/InsultsProcessor.h
+
+C:/Users/sonic/CLionProjects/Insult_Generator/InsultsProcessor.h
+iostream
+-
+algorithm
+-
+vector
+-
+sstream
+-
+string
+-
+fstream
+-
+cxxabi.h
+-
+random
+-
+cstdlib
+-
+ctime
+-
+
+C:/Users/sonic/CLionProjects/Insult_Generator/main.cpp
+iostream
+-
+InsultsProcessor.h
+C:/Users/sonic/CLionProjects/Insult_Generator/InsultsProcessor.h
+
